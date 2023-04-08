@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently developing and learning JavaScript, react-js, and other full-stack tools.<br>💬 Ask me about  PHP, JavaScript, Android<br>⚡ Fun fact My Git-Hub codes = 50% Me + 30% StackOverflow + 20% Google
+🌱 I’m currently developing and learning react-js, and other full-stack tools.<br>💬 Ask me about  PHP, JavaScript, Android<br>⚡ Fun fact My Git-Hub codes = 50% Me + 30% StackOverflow + 20% Google
 
 
 ## 🌐 Socials:
